@@ -24,7 +24,7 @@ void printArraystring(string str[] , int n)
 
 int main()
 {
-string arr[] = {""};
+string arr[] = {"I Like To Dance"};
 int n = sizeof(arr)/sizeof(arr[0]);
 
 sort(arr, n);
